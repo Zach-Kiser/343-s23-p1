@@ -1,0 +1,14 @@
+#events {
+    border: 2px solid black;
+}
+#events th{
+    border: 2px solid black;
+    width: 20vw;
+    height: 5vw;
+}
+#main-content {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
